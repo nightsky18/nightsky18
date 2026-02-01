@@ -9,10 +9,6 @@ Computer Engineering Student | Software Development & Data Analysis
   </a>
   <a href="http://www.linkedin.com/in/marianamontoya82221" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:marianamontoyasepulveda7@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 <br>
@@ -28,14 +24,14 @@ Strong interest in <b>data analysis and data management</b>, focused on building
 
 📍 Bello, Colombia <br>
 </p>
-
+📬 Contact: <b>marianamontoyasepulveda7@gmail.com</b>
 <br>
 
 <h2>Technologies & Tools</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,java,nodejs,express,react,mongodb,moongoose,html,css,git,github,vscode,linux&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,python,java,nodejs,express,react,mongodb,moongoose,html,css,git,github,vscode,notion,linux&perline=8" />
   </a>
 </p>
 
