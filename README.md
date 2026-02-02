@@ -77,16 +77,17 @@ Experience working in collaborative environments, assuming roles such as <b>Scru
 
 <h2> 🤹🏻‍♀️GitHub Activity</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=nightsky18&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nightsky18&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nightsky18&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nightsky18&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&v=1)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nightsky18&theme=highcontrast&hide_border=false&v=1)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nightsky18&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1)
 
 <h2>⚙️ GitHub Analytics</h2>
 
 <a href="https://github.com/nightsky18">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nightsky18&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nightsky18&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nightsky18&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=1"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nightsky18&layout=compact&langs_count=8&theme=dark&v=1"/>
 </a>
+
 
 
 <h2>⌛📚 Currently Learning</h2>
