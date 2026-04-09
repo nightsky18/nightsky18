@@ -75,9 +75,9 @@ Experience working in collaborative environments, assuming roles such as <b>Scru
   </tr>
 </table>
 
-<h2> 🤹🏻‍♀️GitHub Activity</h2>
+<h2>🤹🏻‍♀️ GitHub Activity</h2>
 
-![](https://nirzak-streak-stats.vercel.app/?user=nightsky18&theme=highcontrast&hide_border=false&v=1)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=nightsky18&theme=highcontrast&hide_border=false)
 
 <h2>⚙️ GitHub Analytics</h2>
 
